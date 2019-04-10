@@ -7,10 +7,8 @@
       4. Ensure you have rubygems, in concole :
       gem install cucumber
       gem install selenium-webdriver
-      gem install bundler
-      bundler install
-      5. Run 'bundle install'
-      6. Run 'cucumber'
+      gem install rspec
+      6. Run 'cucumber --init'
 
 ## Feedback
 I would be more than happy to recieve feedback, please email me at: neiomiku@gmail.com.
